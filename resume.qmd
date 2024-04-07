@@ -1,88 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andrew Leland's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andrew Leland
+BS Computer Science | BYU-Idaho | Rexburg, ID USA
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="Github">
+<a href="https://github.com/Crusoee">my github</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+#### BS Computer Science | BYU-Idaho | Rexburg, ID USA
 
-`1654-1660`
-__The King's School, Grantham.__
+•	Awarded the Ricks Grant Scholarship.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+•	Received Computer Programming Certificate - DEC. 14, 2022.
 
-- Sizar
+### Work Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+#### Computer Science Intern | Hill Air-force Base | Hill AFB, UT	July 2023 - December 2023
+	
+Internship at 309th Software Engineering Group for the United States Air-Force
 
-- Fellow
+•	Received Secret Clearance – OCT. 2023.
 
+•	Collaborated over the span of 6 months with a highly skilled cross-functional team to design a 3D graphical game using OpenGL.
 
+•	Revamped first-person game to use multi-threading to handle multiple clients and improve stuttering due to single threaded issues.
 
-## Awards
+#### Tutor C# and C++ | Brigham Young University - Idaho | Rexburg, ID	January 2023 - July 2023
+	
+School position where students assist classmates
 
-`2012`
-President, *Royal Society*, London, UK
+•	Taught C# and C++ to peers, whilst working with professors on campus to better teach individuals.
 
-Associate, *French Academy of Science*, Paris, France
+#### Team Lead | OptimalShip | Rexburg, ID	February 2022 - October 2022
+	
+Shipping company that primarily ships overseas
 
+•	Trained and led a team of new hires on how to speak professionally to possible clients in the overseas shipping industry.
 
+•	Held team meetings to set goals and report on accomplishments and improvements throughout the week.
 
-## Publications
+•	Evaluated new hires for interviews with the manager.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+#### Volunteer | The Church of Jesus Christ of Latter-Day Saints | Denmark	February 2019 - February 2021
+	
+Full-time representative for a church organization for 2 years
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+•	Led a team of volunteers in Denmark to learn Danish and give informative meetings on our church.
 
 
-## Occupation
+### Projects
 
-`1600`
-__Royal Mint__, London
+#### 3D Graphical Simulation | C/C++, Linux | Hill AFB, UT	July 2023 - Present
 
-- Warden
-- Minted coins
+•	Implemented low-level OpenGL and abstracted functionality.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+•	Established a Multithreaded Client-Server Network utilizing the Transmission Control Protocol.
 
+•	Demonstrated effective, collaborative problem-solving abilities with our team.
 
+#### Machine Learning Model | Python, Windows | Rexburg, ID	January 2022 - February 2022
+
+•	Programmed a model using Google’s Tensor Flow library to predicting housing prices in Northern Washington.
+
+#### Database Design | SQL, Windows | Rexburg, ID	January 2023 – February 2023
+
+•	Programmed and organized data inside a relational database using proper technique.
+
+#### Physics Demonstration | C/C++, Windows | Rexburg, ID	December 2022 - Present
+
+•	Constructed a highly detailed visual demonstration of physics that expresses cleverness and creativity.
+
+#### New York Times Digit Solver | Python, Windows | Rexburg, ID	May 2023 - May 2023
+
+•	Created a compact program that involves advanced recursion to solve every possibility to Digits: A Daily Puzzle.
+
+#### Chess | C#, Windows | Rexburg, ID	September 2022 - November 2022
+
+•	Coded chess entirely in C# using object-oriented design principles.
+
+#### Longitude-Latitude Locator | Python, Windows | Rexburg, ID	January 2022 - February 2022
+
+•	Teamed with a partner to design a program that plots the international space station in real-time.
 
 <!-- ### Footer
 
